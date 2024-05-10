@@ -2,13 +2,13 @@
   border-radius: 10px;
   border: 2px solid black;
   width: 400px;
-  margin: 10px;
   padding-top: 20px;
   background-color: rgb(247, 243, 243);
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  margin-bottom: 20px;
 }
 
 .imageWrapper {

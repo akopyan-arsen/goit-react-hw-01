@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
